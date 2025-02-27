@@ -1,2 +1,2 @@
 # knn_practice
-dsci100 midterm 1 practice
+Practicing using the tidymodels package in R to implement the K-Nearest Neighbours algorithm 
